@@ -268,6 +268,14 @@ Maxwell's Equations → Wave Solutions (EM Spectrum) + Energy Conservation (Poyn
 | Ka-band HTS | 20/30 GHz | Spot-beam S concentration + frequency reuse |
 | GPS receiver | 1.575 GHz | Receive S ~10⁻¹⁶ W from GPS satellite |
 
+
+
+
+
+
+
+
+
 ### Case Study 3 — Smart Electric Meter (India RDSS Scheme)
 <img width="1050" height="700" alt="image" src="https://github.com/user-attachments/assets/7155919c-2195-4f0d-9ed8-1ba0c65d5fa7" />
 
